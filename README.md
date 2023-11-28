@@ -1,4 +1,4 @@
-![image](https://github.com/matheusapf1/matheusapf1/assets/89087184/d7af8f64-a189-4ef6-986e-5369731730e2)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=HEELO,+MY+NAME+is+Matheus+Albuquerque;I'm+25+years+old;I+From+Brazil;Be+Welcome!+:%23)](https://git.io/typing-svg)
 
